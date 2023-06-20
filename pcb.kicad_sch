@@ -323,7 +323,7 @@
     (property "Value" "CR2032" (at 137.16 101.0285 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:BatteryHolder_Keystone_1057_1x2032" (at 133.35 100.076 90)
+    (property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm" (at 133.35 100.076 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 133.35 100.076 90)
